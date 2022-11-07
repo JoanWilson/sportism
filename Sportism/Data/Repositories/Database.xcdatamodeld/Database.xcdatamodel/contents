@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21279" systemVersion="22A380" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="FavoriteSport" representedClassName=".FavoriteSport" syncable="YES" codeGenerationType="class">
+        <attribute name="idSport" optional="YES" attributeType="String"/>
+        <attribute name="strFormat" optional="YES" attributeType="String"/>
+        <attribute name="strSport" optional="YES" attributeType="String"/>
+        <attribute name="strSportDescription" optional="YES" attributeType="String"/>
+        <attribute name="strSportIconGreen" optional="YES" attributeType="String"/>
+        <attribute name="strSportThumb" optional="YES" attributeType="String"/>
+    </entity>
+</model>
